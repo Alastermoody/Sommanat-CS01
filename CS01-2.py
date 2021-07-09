@@ -1,7 +1,4 @@
-A=int(100)
-B=int(5)
+A=int(input())
+B=int(input())
 C=A+B
-C=A-B
-C=A*B
-C=A/B
 print(C)
